@@ -1,0 +1,18 @@
+<RCC>
+    <qresource prefix="/">
+        <file>images/vir_cam_1_2022_03_28_13_04_18_821_1_3360.bmp</file>
+        <file>images/vir_cam_1_2022_03_28_13_04_19_322_2_5280.bmp</file>
+        <file>images/vir_cam_1_2022_03_28_13_04_19_823_3_7200.bmp</file>
+        <file>images/vir_cam_1_2022_03_28_13_04_20_323_4_8880.bmp</file>
+        <file>images/vir_cam_1_2022_03_28_13_04_20_825_5_10800.bmp</file>
+        <file>images/vir_cam_2_2022_03_28_13_04_18_651_1_2640.bmp</file>
+        <file>images/vir_cam_2_2022_03_28_13_04_19_151_2_4560.bmp</file>
+        <file>images/vir_cam_2_2022_03_28_13_04_19_649_3_6480.bmp</file>
+        <file>images/vir_cam_2_2022_03_28_13_04_20_150_4_8160.bmp</file>
+        <file>images/vir_cam_3_2022_03_28_13_04_18_820_1_3360.bmp</file>
+        <file>images/vir_cam_3_2022_03_28_13_04_19_322_2_5280.bmp</file>
+        <file>images/vir_cam_3_2022_03_28_13_04_19_823_3_7200.bmp</file>
+        <file>images/vir_cam_3_2022_03_28_13_04_20_323_4_8880.bmp</file>
+        <file>images/vir_cam_3_2022_03_28_13_04_20_824_5_10800.bmp</file>
+    </qresource>
+</RCC>
